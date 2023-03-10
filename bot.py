@@ -101,5 +101,4 @@ async def removerole(ctx, member: discord.Member, role: discord.Role):
   await ctx.send(f'{member.mention} has had the {role.name} role removed.')
 
 
-bot.run(
-  'NzcyNzE4Nzk2OTA0OTg4NzMy.G_7Wj4.R4lmgR7I_tOeHkFpGwWHc3lCYrcgbl4udxHWbg')
+
